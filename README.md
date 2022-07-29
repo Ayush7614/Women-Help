@@ -76,6 +76,3 @@ Start the server:
 ```sh
 yarn start
 ```
-## 9. WEBSITE URL 
-
-**TEAM VENOM 2.0**
