@@ -65,7 +65,7 @@ Users get to experience a hassle-free login system by just entering their email 
 Open your favorite Terminal and run these commands:
 Clone the repository: 
 ```sh
-git clone https://github.com/SWASTIKA28/glovia
+git clone https://github.com/Ayush7614/Women-Help
 ```
 
 Install node modules: 
