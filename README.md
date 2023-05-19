@@ -38,7 +38,7 @@ Notifying your loved ones: An email with instructions on how they can take care 
 
 ## 6. Accomplishments that we're proud of
 - Hosted four APIs and database in Linode Server
-- Used Heroku to deploy the Progressive Web APP
+- Used Vercel to deploy the Progressive Web APP
 - Use of Twilio E-Mail & SMS Messaging API
 We were able to integrate twilio sms feature to send messages to loved ones while in distress.
 An email with instructions on how you can take care of your loved one will be sent to that email address. 
@@ -53,7 +53,7 @@ Users get to experience a hassle-free login system by just entering their email 
 | API | Custom-built APIs using python for detecting profane words on the discussion forum, extracting news articles related to menstruation and generating mood-based playlists.|
 | Tools | Postman, GitHub |
 | Languages | HTML, CSS, JavaScript, Node.JS, Express.JS, Python |
-|Hosting Platform | Heroku, Linode for API and Database |
+|Hosting Platform | Vercel, Linode for API and Database |
 | Auth0 | For authentication and authorization |
 | GoDaddy | For custom domain |
 
